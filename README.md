@@ -30,20 +30,6 @@ The dataset contains:
 - Multiple plant disease categories
 - Thousands of labeled images
 
-Dataset Structure:
-
-dataset/
-├── train/
-│   ├── class_1
-│   ├── class_2
-│   └── ...
-├── valid/
-│   ├── class_1
-│   ├── class_2
-│   └── ...
-└── test/
-    ├── images
-
 ---
 
 ## Technologies Used
